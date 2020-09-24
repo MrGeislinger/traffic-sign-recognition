@@ -7,4 +7,4 @@ In this project, I used convolutional neural networks (CNNs) to classify traffic
 
 After the models were trained and the best model was determined, I found additional German traffic sign images to further test the model's performance.
 
-Work can be found the included [notebook](Traffic_Sign_Classifier.ipynb) found in this repo. An overall [write-up](writeup.html) can also be found in this repo where much of the information discussed in the main notebook is repeated.
+Work can be found the included [notebook](Traffic_Sign_Classifier.ipynb) found in this repo. An overall [write-up](writeups/writeup.html) can also be found in this repo where much of the information discussed in the main notebook is repeated.
