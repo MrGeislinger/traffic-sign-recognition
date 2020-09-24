@@ -4,3 +4,5 @@ data
 models
 *.swp
 *.p
+# Mac OSX
+.DS_Store
